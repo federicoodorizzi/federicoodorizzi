@@ -27,11 +27,6 @@ I have experience in multiple programming languages such as: Javascript, Python,
 👨‍💻 **Freelance Software Engineer** (2021 - Ongoing)
 - Enable optimized workflows in affirmed companies using new technologie
 
-[![Linkedin]()
-
-
-![federicoodorizzi's GitHub stats]()
-
 ## Recent Projects
  📱 **iOS app for train tracking**: ([🔗Code]())
   - Developed **Swift** application for searching, tracking and booking trais.
