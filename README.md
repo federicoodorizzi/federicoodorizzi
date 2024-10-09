@@ -25,7 +25,7 @@ I have experience in multiple programming languages such as: Javascript, Python,
 
 ## My work experience
 👨‍💻 **Freelance Software Engineer** (2021 - Ongoing)
-- Enable optimized workflows in affirmed companies using new technologie
+- Enable optimized workflows in affirmed companies using new technologies
 
 ## Recent Projects
  📱 **iOS app for train tracking**: ([🔗Code]())
