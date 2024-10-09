@@ -28,7 +28,7 @@ I have experience in multiple programming languages such as: Javascript, Python,
 - Enable optimized workflows in affirmed companies using new technologies
 
 ## Recent Projects
- 📱 **iOS app for train tracking**: ([🔗Code]())
+ 📱 **iOS app for train tracking**
   - Developed **Swift** application for searching, tracking and booking trais.
   - Adopted agile development by using CI tools and GitFlow model.
   - Optimized the application for offline use with real time data syncing using Vapor on a DigitalOcean servlet.
